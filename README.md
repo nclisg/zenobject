@@ -1,4 +1,4 @@
-Generates Manufacuter Hardwware objects for filling in objects.xml in ZenPacks
+Generates Manufacuter Hardware objects for filling in objects.xml in ZenPacks
 
 Format csv as follows: 
 
